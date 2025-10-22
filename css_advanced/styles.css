@@ -152,6 +152,7 @@ button.register-btn {
 /* Quote section styles */
 
 .second-section {
+  width: 1440px;
   background: #c271ff;
   padding: 100px 0;
 }
@@ -197,6 +198,7 @@ button.register-btn {
 /* Tutorials section styles */
 
 .tutorial-section {
+  width: 1440px;
   padding: 80px 0;
   color: #071629;
   text-align: center;
@@ -295,6 +297,7 @@ button.register-btn {
 /* Membership section styles */
 
 .membership-section {
+  width: 1440px;
   background: #071629;
   padding: 70px 0;
   text-align: center;
@@ -353,6 +356,7 @@ button.register-btn {
 /* FAQ section styles */
 
 .faq-section {
+  width: 1440px;
   padding: 90px 0;
   background: white;
 }
