@@ -401,6 +401,7 @@ button.register-btn {
 /* Footer styles */
 
 .footer {
+  width: 1440px;
   background: #071629;
   padding: 40px 0;
 }
